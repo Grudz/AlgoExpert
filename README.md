@@ -5,11 +5,11 @@ This repository consists of algorithm problems completed on [AlgoExpert.io](http
 ---
 ### Difficulty Levels solved
 
- Easy - :green_circle:    
- Medium - :yellow_circle:      
- :red_circle: Hard -    
- :white_circle: Very Hard -    
- :star: Good to review - 
+ :green_circle: Easy     
+ :yellow_circle: Medium        
+ :red_circle: Hard     
+ :white_circle: Very Hard     
+ :star: Good to review 
  
  ## Problems
  
