@@ -1,9 +1,9 @@
-#  AlgoExpert.io - Interview Prep
+#  AlgoExpert.io - Algorithm and Data Structure Practice
 
 This repository consists of algorithm problems completed on [AlgoExpert.io](https://www.algoexpert.io/product). 
 
 ---
-### Difficulty Levels solved
+### Difficulty Level
 
  :green_circle: Easy     
  :yellow_circle: Medium        
