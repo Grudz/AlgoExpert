@@ -1,6 +1,6 @@
-#  AlgoExpert.io - Algorithm and Data Structure Practice
+# Algorithm and Data Structure Practice
 
-This repository consists of algorithm problems completed on [AlgoExpert.io](https://www.algoexpert.io/product). 
+This repository consists of algorithm problems completed on [AlgoExpert.io](https://www.algoexpert.io/product) and [Hacker Rank](https://www.hackerrank.com/domains/cpp)
 
 ---
 ### Difficulty Level
